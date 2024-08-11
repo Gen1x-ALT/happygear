@@ -62,7 +62,7 @@ export default function Page() {
 
     const handlePolygonHover = (polygon, prevPolygon) => {
         if (polygon) {
-            setHoveredCountry(polygon.properties.admin);
+            setHoveredCountry(polygon.properties.name);
         } else {
             setHoveredCountry(null);
         }
