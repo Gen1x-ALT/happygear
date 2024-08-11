@@ -41,7 +41,7 @@ export default function Page() {
     ];
 
     const countryColors = {
-        'United States of America': '#736cf5',
+        'United States of America': '#B31942',
         'Costa Rica': '#002B7F',
         'Mexico': '#006847',
         'Peru': '#D91023',
