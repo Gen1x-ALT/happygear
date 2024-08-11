@@ -14,7 +14,7 @@ export function Header() {
                 <Image src={happygear} alt="Happygear" width="70"/>
             </Link>
             {!!navItems?.length && (
-                <ul className="flex flex-wrap gap-x-4 gap-y-1">
+            <ul className="flex gap-x-4 list-none overflow-x-auto whitespace-nowrap">
                     {navItems.map((item, index) => (
                         <li key={index}>
                             <Link
