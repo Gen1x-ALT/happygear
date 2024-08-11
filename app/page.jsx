@@ -89,6 +89,7 @@ export default function Page() {
                 <div className="flex-1">
                     <h1 className="mb-0">"Sí, pero ¿quiénes están en el equipo?"</h1>
                     <br></br>
+                    <small style={{ color: 'grey' }}>Contains modified EUMETSAT data</small><br></br>
                     <p className="text-m">
                         Nosotros hablamos Español nativamente, pero la mayoría somos bilingües, entonces hablamos Inglés.
                     </p>
