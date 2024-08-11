@@ -30,6 +30,7 @@ export default function Page() {
     }, [isMounted]);
 
     const countries = [
+        { admin: 'United States of America', name: 'EE.UU (Estados Unidos)' },
         { admin: 'Costa Rica', name: 'Costa Rica' },
         { admin: 'Mexico', name: 'México' },
         { admin: 'Peru', name: 'Perú' },
@@ -40,6 +41,7 @@ export default function Page() {
     ];
 
     const countryColors = {
+        'United States of America': '#736cf5',
         'Costa Rica': '#002B7F',
         'Mexico': '#006847',
         'Peru': '#D91023',
