@@ -1,10 +1,10 @@
 import Image from 'next/image';
 import Link from 'next/link';
 import happygear from 'public/happygear.png';
-import githubLogo from 'public/images/github-mark-white.svg';
 
 const navItems = [
     { linkText: 'Quiénes somos', href: '/' },
+    { linkText: '¿Qué falta?', href: '/quefalta' },
 ];
 
 export function Header() {
