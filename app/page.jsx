@@ -91,7 +91,7 @@ export default function Page() {
                     <br></br>
                     <small style={{ color: 'grey' }}>Contains modified EUMETSAT data</small><br></br>
                     <p className="text-m">
-                        Nosotros hablamos Español nativamente, pero la mayoría somos bilingües, entonces hablamos Inglés.
+                        Nosotros hablamos Español nativamente, pero la mayoría somos bilingües, y también podemos hablar Inglés.
                     </p>
                     <p className="text-m">Tenemos a personas de muchas partes del mundo:</p>
                     <ul>
