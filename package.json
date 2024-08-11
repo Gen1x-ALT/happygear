@@ -12,10 +12,14 @@
         "@netlify/blobs": "^8.0.0",
         "blobshape": "^1.0.0",
         "bright": "^0.8.5",
+        "globe.gl": "^2.32.5",
         "markdown-to-jsx": "^7.4.5",
         "next": "14.2.5",
         "react": "18.3.1",
         "react-dom": "18.3.1",
+        "react-globe": "^2.0.1",
+        "react-globe.gl": "^2.27.2",
+        "three": "^0.167.1",
         "unique-names-generator": "^4.7.1"
     },
     "devDependencies": {
